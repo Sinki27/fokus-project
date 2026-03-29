@@ -1,4 +1,6 @@
+#IMAGEM FOKUS
 <img width="1903" height="991" alt="image" src="https://github.com/user-attachments/assets/6132e2cb-8e16-4248-81d6-750744b8fb14" />
+#TIMER E LISTA DE TAREFAS
 <img width="1904" height="992" alt="image" src="https://github.com/user-attachments/assets/6590f573-04bb-49e0-a030-d69ab035a09b" />
 
 
